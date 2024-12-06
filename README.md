@@ -31,4 +31,4 @@ The **Voice Club Management System** is designed to streamline the management of
 ## 📦 Installation  
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Voice-Club-Management-System.git
+   https://github.com/salahezzt120/voice-club.git
