@@ -1,6 +1,6 @@
 # Voice Club Management System
 
-![Voice Club Banner](path/to/your/image.png)
+![Voice Club Banner](Picture/Screenshot 2024-12-06 131451.png)
 
 **Team Members**:  
 - Nour Basem  
